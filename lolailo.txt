@@ -1,6 +1,10 @@
 manue la manitaaa
+<<<<<<< HEAD
 la puta lucia
 esto esta mu feo picha
 mejor no hacerlo!
 no 
 no no eso no no no no no esasi
+=======
+la puta lucia
+>>>>>>> parent of 29e03b9 (Update lolailo.txt)
